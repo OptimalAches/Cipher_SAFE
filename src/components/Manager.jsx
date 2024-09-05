@@ -122,7 +122,7 @@ const Manager = () => {
                 theme="light"
             />
 
-            <div className="px-4 py-8 md:mycontainer md:py-8 min-h-[81vh]">
+            <div className="px-4 py-8 md:mycontainer md:py-8">
 
                 <h1 className='text-4xl font-bold text-center'>
                     <span className='text-green-500'>&lt;</span><span>Cipher</span><span className="text-green-500">SAFE/&gt;</span>
