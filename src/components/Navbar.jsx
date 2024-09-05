@@ -17,7 +17,7 @@ const Navbar = () => {
                 </ul> */}
 
                 <button className='text-white bg-green-700 hover:bg-green-500 rounded-full flex gap-1 items-center justify-center p-2 ring-white ring-1'>
-                    <img className="invert w-7" src="./public/icons/github.svg" alt="github logo" />
+                    <img className="invert w-7" src="./icons/github.svg" alt="github logo" />
                     <span className='font-bold'>GitHub</span>
                 </button>
             </div>

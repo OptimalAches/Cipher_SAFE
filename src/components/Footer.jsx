@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="logo font-bold text-white text-xl">
                 <span className='text-green-500'>&lt;</span><span>Cipher</span><span className="text-green-500">SAFE/&gt;</span>
             </div>
-            <div className='flex justify-center items-center'>Created with<img className="w-7" src="./public/icons/heart.png" alt="love" />by OptimalAches</div>
+            <div className='flex justify-center items-center'>Created with<img className="w-7" src="./icons/heart.png" alt="love" />by OptimalAches</div>
         </div>
     )
 }
