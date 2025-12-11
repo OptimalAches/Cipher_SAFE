@@ -1,6 +1,6 @@
-# 🔐 CipherSAFE — Password Manager
+# 🔐 Cipher_SAFE — Password Manager
 
-CipherSAFE is a lightweight, client-side password manager built using **React (Vite)** and **Tailwind CSS**.  
+Cipher_SAFE is a lightweight, client-side password manager built using **React (Vite)** and **Tailwind CSS**.  
 It allows users to securely store, edit, and delete website credentials directly in the browser using **LocalStorage**.
 
 ---
